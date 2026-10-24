@@ -219,8 +219,8 @@ Open-source CLI for sandboxed dev environments and AI coding agents. Sessions ru
 
 ---
 
-### [vmagents](https://github.com/emincan2000/vmagents)
-[GitHub](https://github.com/emincan2000/vmagents)
+### [vmforai](https://github.com/emincan2000/vmforai)
+[GitHub](https://github.com/emincan2000/vmforai)
 
 Open-source CLI and terminal UI that runs coding agents (Claude Code, Codex, Gemini CLI, OpenCode, aider) inside full virtual machines on your computer, over SSH.
 
@@ -232,7 +232,7 @@ Open-source CLI and terminal UI that runs coding agents (Claude Code, Codex, Gem
 - **Stateful:** Yes (persistent VMs)
 - **GPU:** Not specified
 - **BYOC / Self-host:** Yes (runs on your own Linux machine)
-- **SDKs:** CLI (Bash) and terminal UI; an MCP server mode (`vmagents mcp`)
+- **SDKs:** CLI (Bash) and terminal UI; an MCP server mode (`vmforai mcp`)
 - **License:** MIT
 - **Pricing:** Free and open source
 
